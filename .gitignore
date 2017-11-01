@@ -91,3 +91,6 @@ ENV/
 # Data
 notMNIST.pickle
 *.zip
+
+# Pre-processed Convolutional Lab data
+preprocess_*
