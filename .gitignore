@@ -94,3 +94,6 @@ notMNIST.pickle
 
 # Pre-processed Convolutional Lab data
 preprocess_*
+
+# Image classification data from Convolutional Lab
+image_classification*
