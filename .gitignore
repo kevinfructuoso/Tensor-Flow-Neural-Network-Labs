@@ -97,3 +97,7 @@ preprocess_*
 
 # Image classification data from Convolutional Lab
 image_classification*
+
+# Segmentation Lab training and validation images
+*train/
+*validation/
