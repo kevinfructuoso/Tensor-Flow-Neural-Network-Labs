@@ -99,5 +99,7 @@ preprocess_*
 image_classification*
 
 # Segmentation Lab training and validation images
-*train/
+*train/*
 *validation/
+*train/
+*runs/
